@@ -17,3 +17,4 @@ theme = 'tale'
     weight = 0
 [Author]
     name = "Karthiga"
+sectionPagesMenu = "main"
