@@ -1,4 +1,4 @@
-baseURL = 'https://karthigahariharan.com/'
+baseURL = 'https://karthigahariharan.com/posts/'
 languageCode = 'en-us'
 title = 'Karthiga Hariharan'
 theme = 'tale'
